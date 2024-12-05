@@ -90,7 +90,7 @@ const App: React.FC = () => {
       <div className="side-box">
         <div className="side-content">
           {showQuinaMessage ? (
-            <span className="han-cantat-quina">HAN CANTAT QUINA! 🎉🎉🎉</span>
+            <span className="han-cantat-quinabox">HAN CANTAT QUINA! 🎉🎉🎉</span>
           ) : (
             previousNumbers
               .filter(num => num !== currentNumber)

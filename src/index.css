@@ -206,6 +206,13 @@ body, html {
   text-align: center;
 }
 
+.han-cantat-quinabox {
+  font-size: 25px;
+  font-weight: bold;
+  color: #FFD700;
+  text-align: center;
+}
+
 .video-box .han-cantat-quina {
   font-size: 60px;
 }
